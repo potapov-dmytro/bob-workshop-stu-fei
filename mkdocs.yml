@@ -67,6 +67,14 @@ extra_css:
 plugins:
   - search
   - glightbox
+  - i18n:
+      languages:
+        - locale: en
+          name: English
+          default: true
+        - locale: sk
+          name: Slovenčina
+          build: true
 
 extra:
   social:
