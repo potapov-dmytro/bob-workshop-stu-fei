@@ -1,6 +1,6 @@
-# IBM Bob — OpenSlava Bobathon
+# IBM Bob — STU FEI Workshop
 
-Welcome to the **IBM Bob Hands-On Workshop** at OpenSlava! This is your complete guide for the 90-minute session — choose a track, follow the step-by-step instructions, and build real applications with IBM Bob.
+Welcome to the **IBM Bob Hands-On Workshop** at STU FEI! This is your complete guide — choose a track, follow the step-by-step instructions, and build real applications with IBM Bob.
 
 ---
 
